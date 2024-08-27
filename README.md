@@ -1,5 +1,9 @@
 # FMCW-Radar-Target-Classification-ML
 
+## Datasets
+All the datasets used in this project are accessible through the OneDrive shared folder found at:
+https://uweacuk-my.sharepoint.com/:f:/g/personal/siva2_bolisetti_live_uwe_ac_uk/EvrefqLAxGhDg0JP8GlrFJYBxHu0DA3aPs5Q8pcGcuuKqg?e=G0bt9d
+
 ## All custom functions are available in FMCW_Data_Simulation_Library.py
 
 ## Radar Processing Pipeline and Data Simulation
